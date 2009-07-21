@@ -1,0 +1,85 @@
+body { 
+  font-family: georgia, "Times New Roman", times, serif;
+  line-height: 130%;
+  color: #330;
+  background: #fffffc;
+  width: 800px;
+}
+
+h1, h2, h3 { 
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  letter-spacing: 4px;
+}
+
+h1 { 
+  width: 528px;
+  height: 125px;
+  background: url(logo.jpg) no-repeat bottom center;
+  text-indent: -9999px;
+  text-align: center;
+  margin: 0 30px 30px 60px;
+}
+
+h2 { 
+  font-size: 130%;
+  padding-top: 4em;
+}
+
+a:link, a:visited { 
+  font-family: cursive;
+  color: #700;
+  text-decoration: underline;
+}
+
+p { 
+  padding-bottom: 10px;
+}
+
+strong { 
+}
+
+cite {
+}
+
+#content { 
+  padding: 0px 70px; 
+  width: 652px;
+  background: url(body.jpg) top left repeat-y;
+}
+
+#header { 
+  background: url(header.jpg);
+  height: 54px;
+  width: 792px;
+}
+
+#tzedakah,
+#contents { 
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 1px solid #999;
+  background: #eee;
+}
+
+#tzedakah a,
+#contents a { 
+  font-family: georgia, "Times New Roman", times, serif;
+}
+
+#contents { 
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#contents ul li { 
+  display: inline;
+  padding-right: 10px;
+}
+
+#footer { 
+  margin-top: 4px;
+  background: url(footer.jpg);
+  height: 62px;
+  width: 792px;
+}
