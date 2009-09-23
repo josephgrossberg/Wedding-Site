@@ -15,6 +15,7 @@
 <link rel="stylesheet" href="/reset.css" type="text/css" />
 <link rel="stylesheet" href="/styles.css" type="text/css" />
 <link rel="Shortcut Icon" type="image/ico" href="http://www.joeandsalem.com/favicon.ico" />
+<script type="text/javascript" src="rsvp.js"></script>
 
 </head>
 
@@ -23,7 +24,7 @@
   <div id="header"></div>
   <div id="content">
 
-    <h1>Wedding Website of Joe Grossberg and Salem Pearce</h1>
+    <h1><a href="/">Wedding Website of Joe Grossberg and Salem Pearce</a></h1>
 
     <div id="contents">
       <ul>
@@ -35,6 +36,26 @@
         <li><a href="#while_in_town">While You're In Town</a></li>
       </ul>
     </div>
+
+    <form id="rsvp" name="rsvp" action="rsvp.php" method="post" onsubmit="return confirmationDialog();">
+      <fieldset>
+        <legend align="center">RSVP</legend>
+        <div id="invitee_names">
+          <p>Invitees:</p>
+          <?php for ($i=0; $i<7; $i++) { ?>
+            <p class="invitee_name"><input class="invitee_name" name="people[]" size="30" maxlength="255" id='invitee_name_<?php echo $i ?>' /></p>
+          <?php } ?>
+        </div>
+        <div id="invitee_answer">
+          <select name="yes_no" id="yes_no">
+            <option value="yes">will</option>
+            <option value="no">will not</option>
+          </select>
+          be attending the event.
+          <input type="submit" value="RSVP" />
+        </div>
+      </fieldset>
+    </form>
 
     <p>We are happy to share this special occasion with our loved ones and hope you will find the information below helpful.</p>
 
@@ -78,9 +99,11 @@
 
     <p>All hotels listed below are within six blocks of the wedding venue. If you have any questions about accommodations, please <a href="mailto:salem@joeandsalem.com">contact the bride</a>.</p>
 
+    <p><em>A note to our guests:</em> Salem's brother is getting married this year as well, and Joe and Salem will be happy to see members of her family in Houston in September if you are unable to make both events.</p>
+
     <p><strong>We have reserved a block of 15 rooms at the Renaissance Washington hotel for three nights.</strong> Guests may check in on Friday, October 23 and depart on Monday, October 26. To reserve a room at our discounted rate of $189.00/night plus taxes, please call (202) 898-9000 before October 2 and tell them you are with the Pearce and Grossberg wedding.</p>
 
-    <p><em>A note to our guests:</em> Salem's brother is getting married this year as well, and Joe and Salem will be happy to see members of her family in Houston in September if you are unable to make both events.</p>
+    <p>Also, be sure to ask what other deals your hotel is offering &mdash; a friend says the Renaissance has a 20% discount for reservations made before September 24 &mdash; and Marriott rewards members get a further discount.</p>
 
     <p><img src="renaissance.jpg" alt="Renaissance Washington" /></p>
 
@@ -123,7 +146,7 @@
     <p><img src="bagel.jpg" alt="Mmm ... bagels" /><br />
     <small>Photo credit <a href="http://www.flickr.com/photos/jeredb/130782970/">jeredb</a></small></p>
 
-    <p>Because so many people are visiting from outside the region, we expect this will be a daytime event. More specific details are coming soon.</p>
+    <p>This will be a daytime event. More specific details are coming soon.</p>
 
     <h2 id="registry">Registry and Charities</h2>
 
@@ -143,7 +166,7 @@
     <p><img src="16th.jpg" alt="panoramic photo of 16th Street NW" /><br />
     <small>Photo credit <a href="http://www.flickr.com/photos/schodts/2816448153/">schodts</a></small></p>
 
-    <p>Looking for fun and interesting things to do before the wedding?</p>
+    <p>Looking for fun and interesting things to do before and after the wedding?</p>
 
     <p>We defer to Destination DC's list of <a href="http://www.washington.org/visiting/browse-dc/attractions/100-free-things-to-do">100 free (or nearly free) things to do in DC</a>.</p>
 

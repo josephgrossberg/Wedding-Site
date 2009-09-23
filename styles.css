@@ -83,3 +83,38 @@ cite {
   height: 62px;
   width: 792px;
 }
+
+form#rsvp {
+  padding: 10px;
+  background: #ffe;
+  border: 1px solid #000;
+  margin: 40px 0;
+}
+
+legend { 
+  text-align: center;
+  font-size: 150%;
+}
+
+fieldset { 
+  color: #700;
+  padding: 5px;
+  border: 0;
+}
+
+#invitee_names { 
+  float: left;
+}
+
+#invitee_answer { 
+  float: right;
+  padding-top: 20px;
+}
+
+p.invitee_name { 
+  margin-bottom: 5px;
+}
+
+input.invitee_name { 
+  color: #700;
+}
