@@ -71,7 +71,7 @@
     <p><img src="http://www.joeandsalem.com/6th_and_i.jpg" alt="the historic Synagogue at Sixth &amp; I in Washington, DC" /><br />
     <small>Photo credit <a href="http://www.flickr.com/photos/mr_t_in_dc/1299589650/">Mr. T in DC</a></small></p>
 
-    <p><strong>Sunday, October 25, 2009</strong></p>
+    <p><strong>Sunday, October 25, 2009, 11:00 a.m.</strong></p>
 
     <p><a href="http://www.sixthandi.org/">Sixth &amp; I Synagogue</a><br />
     600 I St NW<br />
@@ -146,7 +146,19 @@
     <p><img src="bagel.jpg" alt="Mmm ... bagels" /><br />
     <small>Photo credit <a href="http://www.flickr.com/photos/jeredb/130782970/">jeredb</a></small></p>
 
-    <p>This will be a daytime event. More specific details are coming soon.</p>
+    <p><em>We are still finalizing details, so some of the following schedule is approximate.</em></p>
+
+    <h3>Saturday, October 24</h3>
+
+    <p><strong>11:00 a.m. - 1:00 p.m.</strong><br />Open house at Salem and Joe's apartment, 1301 Massachusetts Ave NW, Apt. 506A. Stop by to see us and our cats, Miju and Peeps. (<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1301+massachusetts+ave+nw+washington,+dc&amp;ie=UTF8&amp;z=16&amp;iwloc=A">map</a>)</p>
+
+    <p><strong>7:00 p.m.</strong><br />"Rehearsal" dinner at Logan Tavern, 1423 P St NW. There will be a shuttle from the Renaissance Hotel to the restaurant. (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1423+p+st.+nw+washington,+dc&amp;sll=38.905302,-77.030028&amp;sspn=0.011639,0.019634&amp;ie=UTF8&amp;ll=38.909268,-77.031305&amp;spn=0.011638,0.019634&amp;z=16&amp;iwloc=A">map</a>)</p>
+
+    <h3>Sunday, October 25</h3>
+
+    <p><strong>11:00 am</strong><br />Wedding ceremony at Sixth &amp; I Historic Synagogue, 600 I St NW. (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=600+i+st.+nw+washington,+dc&amp;sll=38.909268,-77.031305&amp;sspn=0.011638,0.019634&amp;g=1423+p+st.+nw+washington,+dc&amp;ie=UTF8&amp;ll=38.902372,-77.017915&amp;spn=0.011639,0.019634&amp;z=16&amp;iwloc=A">map</a>)</p>
+
+    <p><strong>12:00 pm</strong><br />A brunch reception will follow, in the synagogue&#39;s Moses Social Hall.</p>
 
     <h2 id="registry">Registry and Charities</h2>
 
