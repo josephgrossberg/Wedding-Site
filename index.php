@@ -57,9 +57,11 @@
       </fieldset>
     </form>
 
-    <p>We are happy to share this special occasion with our loved ones and hope you will find the information below helpful.</p>
-
     <p>Questions? <a href="mailto:salem@joeandsalem.com">Contact us</a>.</p>
+
+    <p><img src="pearce-grossberg.jpg" alt="Joe and Salem engagement photo" /><br />    <small>Photo credit <a href="http://www.flickr.com/photos/msn11/sets/72157619011355905/">Melissa Nyman</a></small></p>
+
+    <p>We are happy to share this special occasion with our loved ones and hope you will find the information below helpful.</p>
 
     <p>We'll be updating the site with more information, so check back often.</p>
 
