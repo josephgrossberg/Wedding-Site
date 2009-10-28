@@ -15,7 +15,6 @@
 <link rel="stylesheet" href="/reset.css" type="text/css" />
 <link rel="stylesheet" href="/styles.css" type="text/css" />
 <link rel="Shortcut Icon" type="image/ico" href="http://www.joeandsalem.com/favicon.ico" />
-<script type="text/javascript" src="rsvp.js"></script>
 
 </head>
 
@@ -37,25 +36,9 @@
       </ul>
     </div>
 
-    <form id="rsvp" name="rsvp" action="rsvp.php" method="post" onsubmit="return confirmationDialog();">
-      <fieldset>
-        <legend align="center">RSVP</legend>
-        <div id="invitee_names">
-          <p>Invitees:</p>
-          <?php for ($i=0; $i<7; $i++) { ?>
-            <p class="invitee_name"><input class="invitee_name" name="people[]" size="30" maxlength="255" id='invitee_name_<?php echo $i ?>' /></p>
-          <?php } ?>
-        </div>
-        <div id="invitee_answer">
-          <select name="yes_no" id="yes_no">
-            <option value="yes">will</option>
-            <option value="no">will not</option>
-          </select>
-          be attending the event.
-          <input type="submit" value="RSVP" />
-        </div>
-      </fieldset>
-    </form>
+    <div id="photos">
+      <p class="coming_soon">Coming Soon: Wedding Photos!</p>
+    </div>
 
     <p>Questions? <a href="mailto:salem@joeandsalem.com">Contact us</a>.</p>
 

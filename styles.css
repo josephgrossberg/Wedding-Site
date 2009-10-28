@@ -118,3 +118,16 @@ p.invitee_name {
 input.invitee_name { 
   color: #700;
 }
+
+div#photos {
+  padding: 10px;
+  background: #ffe;
+  border: 1px solid #000;
+  margin: 10px 0;
+}
+
+p.coming_soon { 
+  text-align: center;
+  font-size: 150%;
+  color: #700;
+}
