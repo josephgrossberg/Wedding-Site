@@ -37,7 +37,9 @@
     </div>
 
     <div id="photos">
-      <p class="coming_soon">Coming Soon: Wedding Photos!</p>
+      <p class="coming_soon">Wedding Photos!</p>
+      <p><img src="mazel_tov.jpg" border="1"></p>
+      <p>Download <a href="MG_wedding_photos.zip">our wedding photos</a> (42.5 MB, zipped), taken by Matt Goldenberg.</p>
     </div>
 
     <p>Questions? <a href="mailto:salem@joeandsalem.com">Contact us</a>.</p>
@@ -137,7 +139,7 @@
 
     <p><strong>11:00 a.m. - 1:00 p.m.</strong><br />Open house at Salem and Joe's apartment, 1301 Massachusetts Ave NW, Apt. 506A. Stop by to see us and our cats, Miju and Peeps. (<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1301+massachusetts+ave+nw+washington,+dc&amp;ie=UTF8&amp;z=16&amp;iwloc=A">map</a>)</p>
 
-    <p><strong>7:00 p.m.</strong><br />"Rehearsal" dinner (casual attire) at Logan Tavern, 1423 P St NW, for family visiting from out of town. There will be a shuttle from the Renaissance Hotel to the restaurant. (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1423+p+st.+nw+washington,+dc&amp;sll=38.905302,-77.030028&amp;sspn=0.011639,0.019634&amp;ie=UTF8&amp;ll=38.909268,-77.031305&amp;spn=0.011638,0.019634&amp;z=16&amp;iwloc=A">map</a>)</p>
+    <p><strong>6:00 p.m.</strong><br />"Rehearsal" dinner (casual attire) at Logan Tavern, 1423 P St NW, for family visiting from out of town. There will be a shuttle from the Renaissance Hotel to the restaurant. (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1423+p+st.+nw+washington,+dc&amp;sll=38.905302,-77.030028&amp;sspn=0.011639,0.019634&amp;ie=UTF8&amp;ll=38.909268,-77.031305&amp;spn=0.011638,0.019634&amp;z=16&amp;iwloc=A">map</a>)</p>
 
     <h3>Sunday, October 25</h3>
 
